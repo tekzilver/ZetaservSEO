@@ -1,5 +1,9 @@
 # ZetaservSEO
 
+<div align="center">
+  <img src="zetaserv-logo-git.png" alt="Zetaserv SEO Logo" width="100" height="100" />
+</div>
+
 Automated SEO Intelligence, Audits, Content Strategy &amp; Social Distribution Workspace
 
 🌐 **Live App:** [https://zetaserv.online](https://zetaserv.online)  
